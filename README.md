@@ -17,7 +17,7 @@ Airbnb is a home-sharing platform that allows home-owners to put their propertie
 
 ## Others <a name="others"></a>
 
-I wrote a [medium post](https://medium.com/p/e77338893db7/edit) on this project described how I cleaned data and some interesting findings from business perspectives. I also explained modeling in brief and presented major results. You can also find recommondations for future work there. A long way to go.
+I wrote a [medium post](https://medium.com/@ywzqhy.816/airbnb-listing-price-in-san-francisco-e77338893db7) on this project described how I cleaned data and some interesting findings from business perspectives. I also explained modeling in brief and presented major results. You can also find recommondations for future work there. A long way to go.
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
